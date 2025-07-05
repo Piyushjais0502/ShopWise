@@ -1,0 +1,65 @@
+.chat-container {
+  width: 90%;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.messages {
+  height: 250px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 8px;
+  background-color: #f8f8f8;
+}
+
+.bubble {
+  padding: 10px;
+  border-radius: 12px;
+  margin: 5px 0;
+  max-width: 75%;
+}
+
+.user {
+  background-color: #d1e7ff;
+  align-self: flex-end;
+  text-align: right;
+}
+
+.bot {
+  background-color: #ffe0b2;
+  align-self: flex-start;
+  text-align: left;
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.product-grid {
+  margin-top: 20px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 8px;
+  width: 150px;
+  text-align: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p1",
+    "name": "Red Casual Sneakers",
+    "category": "sneakers",
+    "color": "red",
+    "price": 2299,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p2",
+    "name": "Blue Denim Jacket",
+    "category": "jackets",
+    "color": "blue",
+    "price": 2999,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p3",
+    "name": "White Running Shoes",
+    "category": "shoes",
+    "color": "white",
+    "price": 1599,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": "p4",
+    "name": "Black Graphic T-shirt",
+    "category": "tshirts",
+    "color": "black",
+    "price": 799,
+    "image": "https://via.placeholder.com/150"
+  }
+]
